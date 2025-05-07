@@ -1,0 +1,17 @@
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\bin\Debug\net8.0-windows\Spectrum.exe
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\bin\Debug\net8.0-windows\Spectrum.deps.json
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\bin\Debug\net8.0-windows\Spectrum.runtimeconfig.json
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\bin\Debug\net8.0-windows\Spectrum.dll
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\bin\Debug\net8.0-windows\Spectrum.pdb
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\obj\Debug\net8.0-windows\Spectrum.Login.resources
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\obj\Debug\net8.0-windows\Spectrum.Properties.Resources.resources
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\obj\Debug\net8.0-windows\Spectrum.csproj.GenerateResource.cache
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\obj\Debug\net8.0-windows\Spectrum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\obj\Debug\net8.0-windows\Spectrum.AssemblyInfoInputs.cache
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\obj\Debug\net8.0-windows\Spectrum.AssemblyInfo.cs
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\obj\Debug\net8.0-windows\Spectrum.csproj.CoreCompileInputs.cache
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\obj\Debug\net8.0-windows\Spectrum.dll
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\obj\Debug\net8.0-windows\refint\Spectrum.dll
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\obj\Debug\net8.0-windows\Spectrum.pdb
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\obj\Debug\net8.0-windows\Spectrum.genruntimeconfig.cache
+C:\Users\Xanith\Downloads\NameSpectrum\Spectrum\Spectrum\obj\Debug\net8.0-windows\ref\Spectrum.dll

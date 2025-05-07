@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Xanith\\Downloads\\NameSpectrum\\Spectrum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7CCE071-56F1-4D8C-99D9-E7BEF85E291A}|Spectrum\\Spectrum.csproj|c:\\users\\xanith\\downloads\\namespectrum\\spectrum\\spectrum\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7CCE071-56F1-4D8C-99D9-E7BEF85E291A}|Spectrum\\Spectrum.csproj|solutionrelative:spectrum\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Xanith\\Downloads\\NameSpectrum\\Spectrum\\Spectrum\\Login.cs",
+              "RelativeDocumentMoniker": "Spectrum\\Login.cs",
+              "ToolTip": "C:\\Users\\Xanith\\Downloads\\NameSpectrum\\Spectrum\\Spectrum\\Login.cs [Design]*",
+              "RelativeToolTip": "Spectrum\\Login.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:14:18.401Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
